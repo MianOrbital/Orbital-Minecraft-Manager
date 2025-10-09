@@ -30,7 +30,7 @@ let
 #Modpack Specifc Variables (These will be assigned elsewhere in the future)
 var
   topLvlModVars* = (
-    modpackUrl: "https://www.dropbox.com/scl/fi/qmb6mdbqd4scstktnj9h2/Modpack.zip?rlkey=32jszohogtyn86xuceyr585ui&st=bm7beeq7&dl=1",
+    modpackUrl: "https://www.dropbox.com/scl/fi/jk3w6h9hiqdktehwnttzs/Modpack.zip?rlkey=h0nm86f05t7xhg8izpk0azp2p&st=3m3ltn35&dl=1",
     modpackName: "Infinite Hyperdeath 3",
     modpackNameZip: "Modpack.zip",
     modpackFramework: "1.20.1-forge-47.4.0"

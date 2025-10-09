@@ -1,5 +1,5 @@
 <h3>Orbital Minecraft Manager</h3>
-<h5>Version 0.3 - The Usable Edition</h5>
+<h5>Version 0.3.1 - The Usable Edition</h5>
 <h5>Written by Mian using Nim in September of 2025</h5>
 <h5>Public domain under CC0 1.0</h5>
 
