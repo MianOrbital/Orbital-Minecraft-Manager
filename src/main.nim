@@ -2,9 +2,8 @@
 #Licensed under CC0 1.0
 #Clunking Clankers 0
 
-#This is all of the procedures
+#This is all of the procedures and value assignments.
 #I may split some of this in the future but honestly Nim's circular import is stinky
-#If split, they will only require values imports.
 
 #Std Lib Imports
 import std/os
