@@ -1,6 +1,6 @@
 <h3>Orbital Minecraft Manager</h3>
 <h5>Version 0.4 - The Updated Edition</h5>
-<h5>Written by Mian using Nim in September of 2025</h5>
+<h5>Written by Mian using Nim in October of 2025</h5>
 <h5>Public domain under CC0 1.0</h5>
 
 <h4>Instaltion</h4>
@@ -8,13 +8,11 @@
 <ol>
 <li>Java</li>
 <li>Mojang Launcher Installed</li>
-<li>Vanilla Version of the Modpack Version</li>
 </ol>
 
 <h5>Step By Step</h5>
 <ol>
 <li>Download and install the official Mojang launcher.</li>
-<li>Run the vanilla version of Minecraft used by the modpack</li>
 <li>Download the latest version from the releases section above</li>
 <li>Run the exe and enter the desired option</li>
 <li>Currently, you need to then run the minecraft Launcher to launch</li>
@@ -37,10 +35,20 @@
 
 <h5>To Do</h5>
 <ul>
-<li>Learn how to correctly Echo</li>
 <li>Kiss my wife goodnight</li>
 <li>Make JSON "safe"</li>
 <li>Add more documentation</li>
+<li>Try fail & Proc return pass/fail</li>
 </ul>
 
 <h4>Documentation</h4>
+
+<h4>File Template</h4>
+<ol>
+<li> Header </li>
+<li>File Info</li>
+<li>Imports</li>
+<li>Config Reader</li>
+<li>Procedures</li>
+<li>Config Writer</li>
+<li>Flow</li>
